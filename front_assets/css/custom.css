@@ -1,0 +1,120 @@
+
+/* Link Color */
+	
+/* Hover Link Color */
+a:focus, a:active, a:hover { color: #e55521; }
+
+/* Accent Background Color */
+.entry-header, #site-navigation  ul li a:hover, #site-navigation  ul li.current_page_item a, .header-search-form, .widget .tagcloud a, .grid figcaption, .audiojs .progress, #contact-form .submit-button, .latest-item .entry-footer .button-readmore a, .latest-item .entry-footer .buy span a, .flex-direction-nav a, #commentform #submit, #progress-bar, .share-items .share-item-icon-search a:hover, #site-navigation ul.sub-menu li:hover, .grid figcaption a, .entry-meta .buy span a, .WPlookAnounce, .toggle-event  .category-selected a, .entry-header-comments .reply a, .mean-container a.meanmenu-reveal span, .toggle-event .expand-button .buy .tour-status, .menu-language-menu-container ul li a {background: #e55521;}
+.nav-previous-icon, .nav-next-icon, .widget_search #searchsubmit, .error404 .search-button {background-color: #e55521;}
+.audiojs .play-pause p.play, .audiojs .play-pause p.pause {color: #e55521;}
+/* Accent Text Color */
+.entry-header, .header-search-form input, .WPlookAnounce .announce-body, .WPlookAnounce .announce-body a {color: #FFFFFF;}
+
+/* Secondary color */
+#site-navigation  ul, .share-items li, #nextslide, #prevslide, #status-info, #site-info, .single-post .entry-meta, .entry-meta-map, .widget_search #searchform #s, .error404 #searchform #s, .menu-language-menu-container ul li a:hover, .more-options .share-buttons  { background: #1c1d21;}
+ol.audio-list li.playing span.icon-music {
+	color: #e55521;
+}
+.footer-links .footer-links-ul .footer-links-li a{
+	text-align: right;
+}
+h2#site-description {
+    line-height: 0!important;
+}
+span.credit-dev {
+    font-size: 11px;
+}
+#site-info {
+    color: #fff;
+    text-align: center;
+    margin-right: 0;
+}
+.footer-navigation {
+	margin: 0px;
+}
+.footer-navigation .menu li a {
+    font-size: 14px;
+    padding: 19px 5px 17px 5px;
+}
+.entry-content-post.static-post-content {
+    font-size: 1.2em;
+}
+span.list-clock {
+    margin-left: 30px;
+}
+p.nothing-found {
+    font-size: 24px;
+    padding-top: 30px;
+    text-align: center;
+    margin-bottom: 0;
+}
+li.menu-item.smart-menu a {
+    color: #08c108;
+}
+
+ol.audio-list li.playing {
+    background: #fff;
+    color: #1c1d21;
+}
+ol.audio-list li.playing a {
+    color: #000;
+    text-decoration: none;
+}
+ol.audio-list li.playing:hover, ol.audio-list li.playing:hover a {
+    color: #fff;
+    background: #1c1d21;
+}
+ol.audio-list li.playing a:hover {
+    color: #fff;
+}
+.apply-for-job {
+    padding: 20px 35px;
+}
+
+span.required {
+    color: #f00;
+}
+p.view-application a {
+    color: #e55521;
+}
+span.required {
+    color: #e55521;
+}
+p.success-alert {
+    color: #16ad16;
+    font-size: 1.5em;
+    text-align: center;
+    padding: 30px 0px;
+}
+p.error-alert {
+    color: #16ad16;
+    font-size: 1.5em;
+    text-align: center;
+    padding: 30px 0px;
+}
+p.error-alert {
+    color: #f50505;
+    font-size: 1.5em;
+    text-align: center;
+    padding: 30px 0px;
+}
+.time-published {
+    font-size: 12px;
+    font-style: italic;
+}
+.app-deadline {
+    margin-top: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 18px;
+}
+div#supersized-loader {
+    display: none;
+}
+/* #patern {
+    background: none!important;
+}
+body {
+    background: #fff!important;
+} */

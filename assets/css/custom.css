@@ -1,0 +1,42 @@
+.btn {
+    text-transform: none;
+}
+.label-warning {
+    background-color: #e6c528;
+}
+span.input-info {
+    font-style: italic;
+    font-size: 13px;
+    color: #12cce2;
+}
+.table > thead > tr > th {
+    text-transform: capitalize;
+}
+a.datetime-input-clear.ui-button.ui-widget.ui-state-default.ui-corner-all.ui-button-text-only {
+    display: none;
+}
+a.view-more-link {
+    color: #337ab7;
+    font-style: italic;
+    margin-left: 10px;
+    font-size: 12px;
+}
+div#infoMessage p {
+    color: #f00;
+}
+.readonly_label {
+    padding: 5px 10px;
+    background: #eee;
+    height: 32px;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    border-radius: 3px;
+	border: solid 1px #cac9c9;
+}
+.color-white {
+    color: #fff!important;
+}

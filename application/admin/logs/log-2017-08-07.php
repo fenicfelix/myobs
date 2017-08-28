@@ -1,0 +1,18 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-08-07 14:17:59 --> 404 Page Not Found: Auth/images
+ERROR - 2017-08-07 14:18:23 --> 404 Page Not Found: Admin/images
+ERROR - 2017-08-07 14:20:49 --> Severity: Warning --> call_user_func() expects parameter 1 to be a valid callback, cannot access private method Admin::callback_items_after_insert_update() /var/www/html/application/admin/libraries/Grocery_CRUD.php 986
+ERROR - 2017-08-07 14:22:01 --> Severity: Warning --> call_user_func() expects parameter 1 to be a valid callback, cannot access private method Admin::callback_items_after_insert_update() /var/www/html/application/admin/libraries/Grocery_CRUD.php 986
+ERROR - 2017-08-07 15:04:57 --> Severity: Warning --> call_user_func() expects parameter 1 to be a valid callback, cannot access private method Admin::callback_items_after_insert_update() /var/www/html/application/admin/libraries/Grocery_CRUD.php 986
+ERROR - 2017-08-07 15:09:23 --> Severity: Warning --> call_user_func() expects parameter 1 to be a valid callback, cannot access private method Admin::callback_items_after_insert_update() /var/www/html/application/admin/libraries/Grocery_CRUD.php 986
+ERROR - 2017-08-07 15:10:13 --> Severity: Warning --> call_user_func() expects parameter 1 to be a valid callback, cannot access private method Admin::callback_items_after_insert_update() /var/www/html/application/admin/libraries/Grocery_CRUD.php 986
+ERROR - 2017-08-07 15:12:02 --> Severity: Warning --> call_user_func() expects parameter 1 to be a valid callback, cannot access private method Admin::callback_items_after_insert_update() /var/www/html/application/admin/libraries/Grocery_CRUD.php 986
+ERROR - 2017-08-07 15:13:23 --> Severity: Warning --> call_user_func() expects parameter 1 to be a valid callback, cannot access private method Admin::callback_items_after_insert_update() /var/www/html/application/admin/libraries/Grocery_CRUD.php 986
+ERROR - 2017-08-07 15:14:23 --> Severity: Warning --> call_user_func() expects parameter 1 to be a valid callback, cannot access private method Admin::callback_items_after_insert_update() /var/www/html/application/admin/libraries/Grocery_CRUD.php 986
+ERROR - 2017-08-07 15:16:23 --> Severity: Warning --> call_user_func() expects parameter 1 to be a valid callback, cannot access private method Admin::callback_items_after_insert_update() /var/www/html/application/admin/libraries/Grocery_CRUD.php 986
+ERROR - 2017-08-07 15:19:28 --> Severity: Warning --> call_user_func() expects parameter 1 to be a valid callback, cannot access private method Admin::callback_items_after_insert_update() /var/www/html/application/admin/libraries/Grocery_CRUD.php 986
+ERROR - 2017-08-07 15:40:58 --> Severity: Warning --> call_user_func() expects parameter 1 to be a valid callback, cannot access private method Admin::callback_items_after_insert_update() /var/www/html/application/admin/libraries/Grocery_CRUD.php 986
+ERROR - 2017-08-07 15:41:40 --> Severity: Warning --> call_user_func() expects parameter 1 to be a valid callback, cannot access private method Admin::callback_items_after_insert_update() /var/www/html/application/admin/libraries/Grocery_CRUD.php 986
+ERROR - 2017-08-07 15:42:22 --> Severity: Warning --> call_user_func() expects parameter 1 to be a valid callback, cannot access private method Admin::callback_items_after_insert_update() /var/www/html/application/admin/libraries/Grocery_CRUD.php 986
+ERROR - 2017-08-07 15:42:58 --> Severity: Warning --> call_user_func() expects parameter 1 to be a valid callback, cannot access private method Admin::callback_items_after_insert_update() /var/www/html/application/admin/libraries/Grocery_CRUD.php 986
